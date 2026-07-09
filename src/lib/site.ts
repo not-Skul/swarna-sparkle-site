@@ -6,8 +6,8 @@ export const WHATSAPP_URL = "https://chat.whatsapp.com/";
 
 export const CONTACT_EMAIL = "hello@swarnashakti.in";
 
-// Registration closes 22nd June 2026 per the official brochure.
-export const EVENT_DATE = "2026-06-22T09:00:00+05:30";
+// Countdown target — Grand Finale date.
+export const EVENT_DATE = "2026-12-05T18:00:00+05:30";
 
 export const NAV_LINKS = [
   { label: "Home", href: "#home" },
