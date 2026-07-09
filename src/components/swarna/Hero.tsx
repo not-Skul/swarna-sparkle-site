@@ -125,7 +125,7 @@ export function Hero() {
           ))}
         </motion.div>
         <p className="mt-4 text-xs tracking-widest text-muted-foreground">
-          REGISTRATIONS CLOSE · 22 JUNE 2026
+          COUNTDOWN TO THE GRAND FINALE
         </p>
       </div>
 
