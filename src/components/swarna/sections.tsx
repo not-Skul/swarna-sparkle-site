@@ -236,8 +236,8 @@ export function Categories() {
 
 /* ---------------- JOURNEY ---------------- */
 const journey = [
-  { title: "Registration", text: "Begin your journey — register online before 22 June 2026." },
-  { title: "Auditions", text: "Present yourself before the panel at Khaitan School, Noida (mid-June 2026)." },
+  { title: "Registration", text: "Begin your journey — complete your online registration to enter." },
+  { title: "Auditions", text: "Present yourself before the panel and make your first impression." },
   { title: "Professional Grooming", text: "Personality, confidence, communication & self-presentation sessions." },
   { title: "Ramp Walk", text: "Command the runway with elegance, poise and confidence." },
   { title: "Talent Round", text: "Showcase your unique talent and creative individuality." },
