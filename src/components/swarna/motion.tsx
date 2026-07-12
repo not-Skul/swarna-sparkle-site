@@ -29,6 +29,7 @@ export function Reveal({
 /* Ambient floating gold particles */
 export function GoldParticles({ count = 26 }: { count?: number }) {
   const reduce = useReducedMotion();
+  const [mounted, setMounted] = useState(false);
   const [dots] = useState(() =>
     Array.from({ length: count }, () => ({
       left: Math.random() * 100,
@@ -39,7 +40,8 @@ export function GoldParticles({ count = 26 }: { count?: number }) {
       op: 0.25 + Math.random() * 0.5,
     })),
   );
-  if (reduce) return null;
+  useEffect(() => setMounted(true), []);
+  if (reduce || !mounted) return null;
   return (
     <div aria-hidden className="pointer-events-none absolute inset-0 overflow-hidden">
       {dots.map((d, i) => (
