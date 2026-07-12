@@ -81,17 +81,24 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       {
         name: "description",
         content:
-          "Swarna Shakti 2026 — Delhi NCR's most prestigious platform celebrating women's confidence, elegance & talent. Miss & Mrs Delhi NCR. Register now.",
+          "Swarna Shakti 2026 — Delhi NCR's premier women's pageant. Grand Finale 29 August 2026. Miss & Mrs Delhi NCR: confidence, elegance, grooming & talent. Register now.",
       },
       { name: "author", content: "Swarna Shakti" },
       { property: "og:title", content: "Swarna Shakti 2026 — Celebrating Women. Empowering Lives." },
       {
         property: "og:description",
         content:
-          "A Celebration of Strength, Grace & Greatness. Join Miss & Mrs Delhi NCR 2026 — a prestigious journey of empowerment, confidence and talent.",
+          "A Celebration of Strength, Grace & Greatness. Grand Finale 29 August 2026 — join Miss & Mrs Delhi NCR for a prestigious journey of empowerment, confidence and talent.",
       },
       { property: "og:type", content: "website" },
+      { property: "og:site_name", content: "Swarna Shakti" },
       { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "Swarna Shakti 2026 — Celebrating Women. Empowering Lives." },
+      {
+        name: "twitter:description",
+        content:
+          "A Celebration of Strength, Grace & Greatness. Grand Finale 29 August 2026 — Miss & Mrs Delhi NCR.",
+      },
     ],
     links: [
       { rel: "stylesheet", href: appCss },

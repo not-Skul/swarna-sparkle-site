@@ -6,8 +6,9 @@ import { GoldParticles } from "./motion";
 import { EVENT_DATE, GOOGLE_FORM_URL, WHATSAPP_URL } from "@/lib/site";
 
 function useCountdown(target: string) {
-  const [t, setT] = useState(() => diff(target));
+  const [t, setT] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 });
   useEffect(() => {
+    setT(diff(target));
     const id = setInterval(() => setT(diff(target)), 1000);
     return () => clearInterval(id);
   }, [target]);
