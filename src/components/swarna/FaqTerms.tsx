@@ -10,7 +10,7 @@ const faqs = [
   },
   {
     q: "What is the age limit?",
-    a: "Participation is open to women in the 18–49 years age group. Miss category is for younger, unmarried contestants; Mrs category welcomes married women.",
+    a: "Participation is open to women in the 19–49 years age group. Miss category is for younger, unmarried contestants; Mrs category welcomes married women.",
   },
   {
     q: "What is the selection process?",
@@ -39,7 +39,7 @@ const faqs = [
 ];
 
 const terms = [
-  { t: "Eligibility", d: "Open to women aged 18–49. Accurate, complete information is required; false details may lead to disqualification." },
+  { t: "Eligibility", d: "Open to women aged 19–49. Accurate, complete information is required; false details may lead to disqualification." },
   { t: "Registration", d: "Registration is open till End of July 2026. Submission does not guarantee selection — entries are subject to screening." },
   { t: "Code of Conduct", d: "Respectful, professional behaviour is expected. Misconduct or harassment results in immediate disqualification." },
   { t: "Media Rights", d: "Participants grant organizers rights to use photos, videos and content for promotional purposes." },

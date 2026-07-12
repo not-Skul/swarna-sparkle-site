@@ -79,6 +79,11 @@ export function Community() {
                 <MessageCircle className="h-5 w-5" />
                 Join WhatsApp Community
               </a>
+                <p className="mx-auto mt-4 max-w-lg font-serif text-lg italic text-foreground/85">
+                Mr. Vinay Kumar Srivastava - +91 7234888840<br/>Director
+                <br/>
+                Mrs. Harpreet Kaur - +91 8826644358<br/>Organizing Secretary
+              </p>
             </div>
           </div>
         </Reveal>
