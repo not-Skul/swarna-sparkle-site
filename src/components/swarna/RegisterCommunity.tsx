@@ -33,7 +33,7 @@ export function Register() {
                 <ArrowRight className="h-5 w-5 transition-transform group-hover:translate-x-1" />
               </a>
               <p className="mt-4 text-xs tracking-widest text-muted-foreground">
-                REGISTRATIONS CLOSE · 22 JUNE 2026
+                REGISTRATIONS CLOSE End of July 2026 — Limited Slots Available
               </p>
             </div>
 

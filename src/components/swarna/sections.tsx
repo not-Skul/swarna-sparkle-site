@@ -185,13 +185,13 @@ const categories = [
     name: "Miss Delhi NCR",
     tag: "For the aspiring icon",
     desc: "A celebration of youthful confidence, ambition and boundless potential.",
-    eligibility: "Unmarried women, 16–29 years",
+    eligibility: "Unmarried women",
   },
   {
     name: "Mrs Delhi NCR",
     tag: "For the empowered woman",
     desc: "Honouring grace, poise and the strength of the modern married woman.",
-    eligibility: "Married women, 25–49 years",
+    eligibility: "Married women",
   },
 ];
 
@@ -243,6 +243,8 @@ const journey = [
   { title: "Talent Round", text: "Showcase your unique talent and creative individuality." },
   { title: "Questionnaire Round", text: "Engage the judges with intelligence, wit and authenticity." },
   { title: "Grand Finale", text: "Finalists crowned across Miss & Mrs categories — 1st, 2nd & 3rd." },
+  { title: "Live Telecast", text: "Livestreamed events for global audiences." },
+
 ];
 
 export function Journey() {

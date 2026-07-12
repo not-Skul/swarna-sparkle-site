@@ -1,5 +1,5 @@
 export const GOOGLE_FORM_URL =
-  "https://docs.google.com/forms/d/e/1FAIpQLSc0jN8yllAsD_eC5MF0MPBiLs1yCt1NDbab4i5UnULxAnkkhA/viewform?usp=header";
+  "https://docs.google.com/forms/d/e/1FAIpQLSeQyKumlxb3is6ldCn0gMNuyC2xHGsIgYkY-QMPCIjqQrLK8Q/viewform?embedded=true";
 
 // Placeholder — replace with the official Swarna Shakti community invite link.
 export const WHATSAPP_URL = "https://chat.whatsapp.com/IqoVpprJYIFEMAtLi0KU13";

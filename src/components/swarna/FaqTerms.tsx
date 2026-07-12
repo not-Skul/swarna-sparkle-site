@@ -10,19 +10,19 @@ const faqs = [
   },
   {
     q: "What is the age limit?",
-    a: "Participation is open to women in the 16–49 years age group. Miss category is for younger, unmarried contestants; Mrs category welcomes married women.",
+    a: "Participation is open to women in the 18–49 years age group. Miss category is for younger, unmarried contestants; Mrs category welcomes married women.",
   },
   {
     q: "What is the selection process?",
-    a: "Registration is followed by auditions at Khaitan School, Noida (mid-June 2026). Selected participants advance through grooming, ramp walk, talent, and questionnaire rounds to the Grand Finale.",
+    a: "Registration is followed by auditions. Selected participants advance through grooming, ramp walk, talent, and questionnaire rounds to the Grand Finale.",
   },
   {
     q: "How do I register?",
-    a: "Simply complete the official registration form online before 22 June 2026. Submission is subject to screening and approval by the organizing committee.",
+    a: "Simply complete the official registration form online till End of July 2026. Submission is subject to screening and approval by the organizing committee.",
   },
   {
     q: "Where is the event held?",
-    a: "Auditions take place at Khaitan School, Noida. Venues for grooming sessions, questionnaire rounds and the Grand Finale will be announced by the organizing team.",
+    a: "Venues for grooming sessions, questionnaire rounds and the Grand Finale will be announced by the organizing team.",
   },
   {
     q: "What are the judging criteria?",
@@ -39,8 +39,8 @@ const faqs = [
 ];
 
 const terms = [
-  { t: "Eligibility", d: "Open to women aged 16–49. Accurate, complete information is required; false details may lead to disqualification." },
-  { t: "Registration", d: "Registration is open till 22 June 2026. Submission does not guarantee selection — entries are subject to screening." },
+  { t: "Eligibility", d: "Open to women aged 18–49. Accurate, complete information is required; false details may lead to disqualification." },
+  { t: "Registration", d: "Registration is open till End of July 2026. Submission does not guarantee selection — entries are subject to screening." },
   { t: "Code of Conduct", d: "Respectful, professional behaviour is expected. Misconduct or harassment results in immediate disqualification." },
   { t: "Media Rights", d: "Participants grant organizers rights to use photos, videos and content for promotional purposes." },
   { t: "Judging & Results", d: "Decisions of the judges and organizing committee are final and binding, with no dispute or reconsideration." },
