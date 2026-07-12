@@ -2,9 +2,9 @@ export const GOOGLE_FORM_URL =
   "https://docs.google.com/forms/d/e/1FAIpQLSc0jN8yllAsD_eC5MF0MPBiLs1yCt1NDbab4i5UnULxAnkkhA/viewform?usp=header";
 
 // Placeholder — replace with the official Swarna Shakti community invite link.
-export const WHATSAPP_URL = "https://chat.whatsapp.com/";
+export const WHATSAPP_URL = "https://chat.whatsapp.com/IqoVpprJYIFEMAtLi0KU13";
 
-export const CONTACT_EMAIL = "hello@swarnashakti.in";
+export const CONTACT_EMAIL = "swarnshaktirise@gmail.com";
 
 // Countdown target — Grand Finale date.
 export const EVENT_DATE = "2026-08-29T18:00:00+05:30";
