@@ -7,7 +7,7 @@ export const WHATSAPP_URL = "https://chat.whatsapp.com/";
 export const CONTACT_EMAIL = "hello@swarnashakti.in";
 
 // Countdown target — Grand Finale date.
-export const EVENT_DATE = "2026-12-05T18:00:00+05:30";
+export const EVENT_DATE = "2026-08-29T18:00:00+05:30";
 
 export const NAV_LINKS = [
   { label: "Home", href: "#home" },
