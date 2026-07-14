@@ -24,7 +24,8 @@ export function Navbar() {
     >
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-5 sm:px-8">
         <a href="#home" className="flex min-w-0 items-center gap-2.5">
-          <Crown className="h-6 w-6 shrink-0 text-gold" />
+          {/* <Crown className="h-6 w-6 shrink-0 text-gold" /> */}
+          <img src="logo-nobg.png" alt="logo" className="h-9 w-9 shrink-0" />
           <span className="truncate font-display text-lg font-700 tracking-[0.18em] text-gradient-gold sm:text-xl">
             SWARNA SHAKTI
           </span>

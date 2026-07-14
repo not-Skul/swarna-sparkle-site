@@ -147,7 +147,7 @@ export function Footer() {
               <Instagram className="h-4 w-4" />
             </a>
             <a
-              href="#"
+              href="https://www.facebook.com/SwarnShaktiOrg/"
               aria-label="Facebook"
               className="rounded-full border border-gold/30 p-2.5 text-gold transition-colors hover:bg-gold/10"
             >
