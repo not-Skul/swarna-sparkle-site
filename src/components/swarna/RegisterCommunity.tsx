@@ -140,7 +140,7 @@ export function Footer() {
               <MessageCircle className="h-4 w-4" />
             </a>
             <a
-              href="#"
+              href="https://www.instagram.com/swarnshakti.official/"
               aria-label="Instagram"
               className="rounded-full border border-gold/30 p-2.5 text-gold transition-colors hover:bg-gold/10"
             >
