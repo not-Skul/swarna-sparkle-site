@@ -39,7 +39,7 @@ export function Hero() {
       <div className="absolute inset-0">
         <img
           src={heroImg}
-          alt="Swarna Shakti 2026 crowned queen"
+          alt="Swarn Shakti 2026 crowned queen"
           width={1600}
           height={1600}
           className="h-full w-full object-cover object-center"
@@ -66,7 +66,7 @@ export function Hero() {
           transition={{ duration: 1, delay: 0.15 }}
           className="font-display text-5xl font-700 leading-[1.05] tracking-wide sm:text-7xl lg:text-8xl"
         >
-          <span className="text-gradient-gold">SWARNA SHAKTI</span>
+          <span className="text-gradient-gold">Swarn SHAKTI</span>
           <span className="mt-2 block font-serif text-3xl font-500 italic text-foreground/90 sm:text-4xl lg:text-5xl">
             2026
           </span>

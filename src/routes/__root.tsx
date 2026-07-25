@@ -77,23 +77,23 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Swarna Shakti 2026 — A Celebration of Strength, Grace & Greatness" },
+      { title: "Swarn Shakti 2026 — A Celebration of Strength, Grace & Greatness" },
       {
         name: "description",
         content:
-          "Swarna Shakti 2026 — Delhi NCR's premier women's pageant. Grand Finale 29 August 2026. Miss & Mrs Delhi NCR: confidence, elegance, grooming & talent. Register now.",
+          "Swarn Shakti 2026 — Delhi NCR's premier women's pageant. Grand Finale 29 August 2026. Miss & Mrs Delhi NCR: confidence, elegance, grooming & talent. Register now.",
       },
-      { name: "author", content: "Swarna Shakti" },
-      { property: "og:title", content: "Swarna Shakti 2026 — Celebrating Women. Empowering Lives." },
+      { name: "author", content: "Swarn Shakti" },
+      { property: "og:title", content: "Swarn Shakti 2026 — Celebrating Women. Empowering Lives." },
       {
         property: "og:description",
         content:
           "A Celebration of Strength, Grace & Greatness. Grand Finale 29 August 2026 — join Miss & Mrs Delhi NCR for a prestigious journey of empowerment, confidence and talent.",
       },
       { property: "og:type", content: "website" },
-      { property: "og:site_name", content: "Swarna Shakti" },
+      { property: "og:site_name", content: "Swarn Shakti" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:title", content: "Swarna Shakti 2026 — Celebrating Women. Empowering Lives." },
+      { name: "twitter:title", content: "Swarn Shakti 2026 — Celebrating Women. Empowering Lives." },
       {
         name: "twitter:description",
         content:

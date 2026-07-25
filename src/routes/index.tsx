@@ -1,14 +1,14 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { Navbar } from "@/components/swarna/Navbar";
-import { Hero } from "@/components/swarna/Hero";
-import { About, Stats, WhyParticipate, Categories, Journey } from "@/components/swarna/sections";
-import { Gallery } from "@/components/swarna/Gallery";
-import { Faq, Terms } from "@/components/swarna/FaqTerms";
-import { Register, Community, Footer } from "@/components/swarna/RegisterCommunity";
-import { FloatingButtons } from "@/components/swarna/FloatingButtons";
-import { SparkleCursor } from "@/components/swarna/motion";
+import { Navbar } from "@/components/Swarn/Navbar";
+import { Hero } from "@/components/Swarn/Hero";
+import { About, Stats, WhyParticipate, Categories, Journey } from "@/components/Swarn/sections";
+import { Gallery } from "@/components/Swarn/Gallery";
+import { Faq, Terms } from "@/components/Swarn/FaqTerms";
+import { Register, Community, Footer } from "@/components/Swarn/RegisterCommunity";
+import { FloatingButtons } from "@/components/Swarn/FloatingButtons";
+import { SparkleCursor } from "@/components/Swarn/motion";
 
-const SITE_URL = "https://swarna-sparkle-site.lovable.app";
+const SITE_URL = "https://Swarn-sparkle-site.lovable.app";
 
 export const Route = createFileRoute("/")({
   component: Index,
@@ -23,7 +23,7 @@ export const Route = createFileRoute("/")({
         children: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "Event",
-          name: "Swarna Shakti 2026",
+          name: "Swarn Shakti 2026",
           description:
             "Delhi NCR's premier women's pageant celebrating strength, grace and greatness — Miss & Mrs Delhi NCR.",
           startDate: "2026-08-29T18:00:00+05:30",
@@ -39,7 +39,7 @@ export const Route = createFileRoute("/")({
               addressCountry: "IN",
             },
           },
-          organizer: { "@type": "Organization", name: "Swarna Shakti", url: SITE_URL },
+          organizer: { "@type": "Organization", name: "Swarn Shakti", url: SITE_URL },
           url: SITE_URL,
         }),
       },

@@ -34,7 +34,7 @@ function SectionTitle({ kicker, title }: { kicker: string; title: string }) {
 const aboutCards = [
   {
     icon: Crown,
-    title: "What Is Swarna Shakti?",
+    title: "What Is Swarn Shakti?",
     text: "More than a pageant — a movement celebrating the elegance, confidence and inner strength of every woman.",
   },
   {
@@ -58,7 +58,7 @@ export function About() {
   return (
     <section id="about" className="relative overflow-hidden py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-5 sm:px-8">
-        <SectionTitle kicker="EMPOWERED WOMEN EMPOWER THE WORLD" title="About Swarna Shakti" />
+        <SectionTitle kicker="EMPOWERED WOMEN EMPOWER THE WORLD" title="About Swarn Shakti" />
 
         <div className="mt-16 grid items-center gap-12 lg:grid-cols-2">
           <Reveal>
@@ -252,7 +252,7 @@ export function Journey() {
     <section id="journey" className="relative overflow-hidden py-24 sm:py-32">
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_80%_20%,rgba(232,90,168,0.12),transparent_50%)]" />
       <div className="relative mx-auto max-w-3xl px-5 sm:px-8">
-        <SectionTitle kicker="FROM DREAM TO CROWN" title="The Swarna Journey" />
+        <SectionTitle kicker="FROM DREAM TO CROWN" title="The Swarn Journey" />
         <div className="relative mt-16">
           <div className="absolute left-4 top-2 h-full w-px bg-gradient-to-b from-gold via-accent to-transparent sm:left-1/2" />
           <div className="space-y-10">

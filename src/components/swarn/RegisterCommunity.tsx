@@ -21,7 +21,7 @@ export function Register() {
               </h2>
               <p className="mx-auto mt-5 max-w-xl font-serif text-xl italic text-foreground/85">
                 Your time. Your stage. Your story. Claim your place among the women of
-                Swarna Shakti 2026.
+                Swarn Shakti 2026.
               </p>
               <a
                 href={GOOGLE_FORM_URL}
@@ -39,7 +39,7 @@ export function Register() {
 
             <div className="relative mt-10 overflow-hidden rounded-2xl border-gold-soft">
               <iframe
-                title="Swarna Shakti 2026 Registration Form"
+                title="Swarn Shakti 2026 Registration Form"
                 src={GOOGLE_FORM_URL.replace("?usp=header", "?embedded=true")}
                 className="h-[600px] w-full bg-white"
                 loading="lazy"
@@ -67,7 +67,7 @@ export function Community() {
                 <span className="text-gradient-gold">Stay Connected</span>
               </h2>
               <p className="mx-auto mt-4 max-w-lg font-serif text-lg italic text-foreground/85">
-                Join the official Swarna Shakti community for updates, mentorship and a
+                Join the official Swarn Shakti community for updates, mentorship and a
                 sisterhood that lifts each other higher.
               </p>
               <a
@@ -100,7 +100,7 @@ export function Footer() {
           <div className="flex items-center gap-2.5">
             <Crown className="h-6 w-6 text-gold" />
             <span className="font-display text-lg font-700 tracking-[0.18em] text-gradient-gold">
-              SWARNA SHAKTI
+              Swarn SHAKTI
             </span>
           </div>
           <p className="mt-4 max-w-xs font-serif text-lg italic text-muted-foreground">
@@ -159,7 +159,7 @@ export function Footer() {
 
       <div className="border-t border-gold/10">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-3 px-5 py-6 text-xs text-muted-foreground sm:flex-row sm:px-8">
-          <p>© 2026 Swarna Shakti. All rights reserved.</p>
+          <p>© 2026 Swarn Shakti. All rights reserved.</p>
           <div className="flex gap-5">
             <a href="#faq" className="transition-colors hover:text-gold">Privacy</a>
             <a href="#faq" className="transition-colors hover:text-gold">Terms</a>
