@@ -8,7 +8,7 @@ import { Register, Community, Footer } from "@/components/Swarn/RegisterCommunit
 import { FloatingButtons } from "@/components/Swarn/FloatingButtons";
 import { SparkleCursor } from "@/components/Swarn/motion";
 
-const SITE_URL = "https://Swarn-sparkle-site.lovable.app";
+const SITE_URL = "https://Swarna-sparkle-site.lovable.app";
 
 export const Route = createFileRoute("/")({
   component: Index,
