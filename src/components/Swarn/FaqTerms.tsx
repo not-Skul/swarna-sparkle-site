@@ -4,13 +4,13 @@ import { Plus, Minus } from "lucide-react";
 import { Reveal } from "./motion";
 
 const faqs = [
-  {
+{
     q: "Who can participate?",
-    a: "Ambitious, talented women from all backgrounds who are passionate about fashion, beauty, wellness and self-expression — across both Miss and Mrs categories.",
+    a: "Ambitious, talented women from all backgrounds who are passionate about fashion, beauty, wellness and self-expression — across both Miss and Mrs categories.Swarna Shakti 2026 welcomes participants across multiple age groups and categories Junior Category (School going): Girls aged 12–17 years for only talent show, Miss Category: Unmarried women aged 18–30 years, Mrs Category: Married women up to 49 years of age. If you're unsure which category applies to you, feel free to contact our team before registering.",
   },
   {
     q: "What is the age limit?",
-    a: "Participation is open to women in the 19–49 years age group. Miss category is for younger, unmarried contestants; Mrs category welcomes married women.",
+    a: "The age eligibility for Swarna Shakti 2026 is as follows: 12–17 years: Junior/School Category, 18–30 years: Miss Category (Unmarried), Up to 49 years: Mrs Category (Married). Participants should register only under the category that matches their age and marital status.",
   },
   {
     q: "What is the selection process?",
